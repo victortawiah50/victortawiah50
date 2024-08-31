@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @victortawiah50
+- 👋 Hi, I’m @victortawiah
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning ...Html and css
 - 💞️ I’m looking to collaborate on ...
